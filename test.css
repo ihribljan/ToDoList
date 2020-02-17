@@ -1,0 +1,32 @@
+p{
+    display: inline-block;
+    font-family: Arial;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+ul{
+    margin-left: 200px;
+    margin-top: -140px;
+    list-style-type: none;
+    font-size: 18px;
+    line-height: 30px;
+    width: 100%;
+}
+
+#animal li:hover{
+    background-color: rgb(255, 102, 102);
+    display: inline;
+}
+
+a{
+    font-size: 18px;
+    margin-left: 60px;
+    line-height: 30px;
+    width: 100%;
+}
+
+.menu a:hover{
+    background-color: rgb(74, 66, 198);
+}
